@@ -1,0 +1,34 @@
+C:\Users\Hp\OneDrive\Desktop\Student Registration Managment\bin\Debug\Student Registration Managment.exe.config
+C:\Users\Hp\OneDrive\Desktop\Student Registration Managment\bin\Debug\Student Registration Managment.exe
+C:\Users\Hp\OneDrive\Desktop\Student Registration Managment\bin\Debug\Student Registration Managment.pdb
+C:\Users\Hp\OneDrive\Desktop\Student Registration Managment\obj\Debug\Student Registration Managment.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\Student Registration Managment\obj\Debug\Student_Registration_Managment.Form1.resources
+C:\Users\Hp\OneDrive\Desktop\Student Registration Managment\obj\Debug\Student_Registration_Managment.Form2.resources
+C:\Users\Hp\OneDrive\Desktop\Student Registration Managment\obj\Debug\Student_Registration_Managment.Properties.Resources.resources
+C:\Users\Hp\OneDrive\Desktop\Student Registration Managment\obj\Debug\Student Registration Managment.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Desktop\Student Registration Managment\obj\Debug\Student Registration Managment.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Student Registration Managment\obj\Debug\Student Registration Managment.exe
+C:\Users\Hp\OneDrive\Desktop\Student Registration Managment\obj\Debug\Student Registration Managment.pdb
+C:\Users\HS LAPTOP\OneDrive\Desktop\Tolltax\bin\Debug\Student Registration Managment.exe.config
+C:\Users\HS LAPTOP\OneDrive\Desktop\Tolltax\bin\Debug\Student Registration Managment.exe
+C:\Users\HS LAPTOP\OneDrive\Desktop\Tolltax\bin\Debug\Student Registration Managment.pdb
+C:\Users\HS LAPTOP\OneDrive\Desktop\Tolltax\obj\Debug\Student Registration Managment.csproj.AssemblyReference.cache
+C:\Users\HS LAPTOP\OneDrive\Desktop\Tolltax\obj\Debug\Student_Registration_Managment.Form1.resources
+C:\Users\HS LAPTOP\OneDrive\Desktop\Tolltax\obj\Debug\Student_Registration_Managment.Form2.resources
+C:\Users\HS LAPTOP\OneDrive\Desktop\Tolltax\obj\Debug\Student_Registration_Managment.Properties.Resources.resources
+C:\Users\HS LAPTOP\OneDrive\Desktop\Tolltax\obj\Debug\Student Registration Managment.csproj.GenerateResource.cache
+C:\Users\HS LAPTOP\OneDrive\Desktop\Tolltax\obj\Debug\Student Registration Managment.csproj.CoreCompileInputs.cache
+C:\Users\HS LAPTOP\OneDrive\Desktop\Tolltax\obj\Debug\Student Registration Managment.exe
+C:\Users\HS LAPTOP\OneDrive\Desktop\Tolltax\obj\Debug\Student Registration Managment.pdb
+U:\Tolltax\bin\Debug\Student Registration Managment.exe.config
+U:\Tolltax\bin\Debug\Student Registration Managment.exe
+U:\Tolltax\bin\Debug\Student Registration Managment.pdb
+U:\Tolltax\obj\Debug\Student Registration Managment.csproj.AssemblyReference.cache
+U:\Tolltax\obj\Debug\Student_Registration_Managment.Form1.resources
+U:\Tolltax\obj\Debug\Student_Registration_Managment.Form2.resources
+U:\Tolltax\obj\Debug\Student_Registration_Managment.Form3.resources
+U:\Tolltax\obj\Debug\Student_Registration_Managment.Properties.Resources.resources
+U:\Tolltax\obj\Debug\Student Registration Managment.csproj.GenerateResource.cache
+U:\Tolltax\obj\Debug\Student Registration Managment.csproj.CoreCompileInputs.cache
+U:\Tolltax\obj\Debug\Student Registration Managment.exe
+U:\Tolltax\obj\Debug\Student Registration Managment.pdb
